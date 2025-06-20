@@ -1,4 +1,4 @@
 # xecutorsCLONE
 ## 🌐 LIVE DEMO:
-[(https://ali-moosa.github.io/xecutorsCLONE/)](url)
+[https://ali-moosa.github.io/xecutorsCLONE/](url)
 
