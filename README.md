@@ -1,4 +1,5 @@
 # xecutorsCLONE
 ## 🌐 LIVE DEMO:
-[https://ali-moosa.github.io/xecutorsCLONE/]
+[Click here to view the live website]
+(https://ali-moosa.github.io/xecutorsCLONE/)
 
