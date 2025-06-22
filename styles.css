@@ -463,6 +463,9 @@
   div.nav{
         width: auto;
   }
+  div.sec1{
+      width: auto;
+  }
 }    
 
 body{
