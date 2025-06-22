@@ -456,11 +456,13 @@
 }
 
 @media(max-width: 345px){
-    img.heros-imgs{
+   img.heros-imgs{
     width: 290px;
     height: 240px;
   }
-}
+  div.nav{
+        width: auto;
+  }
 
 body{
     overflow-x: hidden;
