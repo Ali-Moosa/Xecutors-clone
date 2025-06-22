@@ -5,6 +5,7 @@ let heros = document.querySelector(".heros-imgs");
 let logo = document.querySelector(".logo");
 let left = document.querySelector(".left-one");
 let section1 =document.querySelector(".sec1");
+let navigation = document.querySelector(".nav-btn-div");
 
 hide.addEventListener("click", ()=>{
     nav.style.display="none";
@@ -21,7 +22,8 @@ block.addEventListener("click", () => {
 hide.addEventListener("click",()=>{
     if (window.matchMedia("(max-width: 530px)").matches) {
         logo.style.display="block";
-        logo.style.marginLeft="110px";
+        navigation.style.width="0px";
+        
     }
 });
 
