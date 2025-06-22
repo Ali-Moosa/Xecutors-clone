@@ -68,18 +68,18 @@
 
     
     .nav{
-        width: 500px;
+        width: 370px;
     }
     .nav-ul{
         visibility:hidden;
     }
      .nav-btn-div{
-        visibility:hidden;
+        display: none !important;
     }  
     img.img-logo{
     width: 250px;
     height: 53px;
-    margin-left: 250px;
+    margin-left: 290px;
     }
     img.lower-logo{
         margin-left: 0;
@@ -304,6 +304,10 @@
     div.right-one{
         gap: 0px;
     }
+    div.heros-imgs{
+        width: auto;
+    }
+    
 
 
      /* Headings */
@@ -456,17 +460,17 @@
 }
 
 @media(max-width: 345px){
-   img.heros-imgs{
+    img.heros-imgs{
     width: 290px;
     height: 240px;
   }
-  div.nav{
-        width: auto;
+  div.nav-contain{
+    width: 170px;
   }
-  div.sec1{
-      width: auto;
+  div.tope-nave{
+    flex-wrap: wrap;
   }
-}    
+}
 
 body{
     overflow-x: hidden;
